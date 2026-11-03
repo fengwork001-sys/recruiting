@@ -216,7 +216,7 @@ window.CONTENT = {
   },
   "leaderboard": {
     "title": "业绩排行榜",
-    "updated": "2026-10-21",
+    "updated": "2026-11-03",
     "list": [
       {
         "name": "大米丢",
@@ -228,7 +228,11 @@ window.CONTENT = {
       },
       {
         "name": "Joeymama",
-        "count": 1
+        "count": 2
+      },
+      {
+        "name": "Jennyyao",
+        "count": 2
       }
     ],
     "empty": "排行榜即将开放，等你上榜",
