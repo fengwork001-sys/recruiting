@@ -28,7 +28,7 @@ window.CONTENT = {
     "line1": "零经验也OK · 马上结算",
     "line2": "每单最高 RM200",
     "button": "WhatsApp 报名",
-    "link": "https://api.whatsapp.com/send?phone=60185724818"
+    "link": "https://api.whatsapp.com/send?phone=601120877397"
   },
   "socials": [
     {
